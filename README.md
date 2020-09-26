@@ -1,2 +1,2 @@
 # Text-Analysis
-Analysis of Text Documents
+Analysis of Text Documents using Python packages
